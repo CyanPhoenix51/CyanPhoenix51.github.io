@@ -1,5 +1,5 @@
 .home-page {
-
+    visibility: hidden;
     .text-zone {
         position: absolute;
         left: 10%;
@@ -10,6 +10,7 @@
     }
 
     h1 {
+
         color: #fff;
         font-size: 53px;
         margin: 0;
