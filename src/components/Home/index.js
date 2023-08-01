@@ -37,7 +37,7 @@ const Home = () => {
                     <h2>Computer Science Graduate</h2>
                     <Link to="/contact" className='flat-button'>CONTACT ME</Link>
                 </div>
-                <Logo />
+                {/* <Logo /> */}
 
             </div>
             <Loader type="pacman" />
