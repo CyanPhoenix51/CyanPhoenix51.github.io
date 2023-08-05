@@ -21,7 +21,7 @@ const About = () => {
                     <h1>
                         <AnimatedLetters letterClass={letterClass} strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']} idx={15} />
                     </h1>
-                    <p>Hi! I'm' a recent Computer Science graduate, thank you for checking out this site.</p>
+                    <p>Hi! I'm a recent Computer Science graduate, thank you for checking out this site.</p>
                     <p>I'm currently looking for my first job in the industry. I hope to learn and contribute to the company that hires me. This site showcases my talents that showing that I am ambitious and hard working</p>
                     <p>Ever since I was a kid programming has been a fascination for me. Seeing how much it is science and art in a perfect balance. I can do anything I set my mind to with this power. I have learned so much, and over the years hope to learn so much more. </p>
                 </div>

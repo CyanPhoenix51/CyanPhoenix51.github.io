@@ -11,6 +11,12 @@
             "title": "Anti-Grav Kart Game",
             "description": "Kart Game School Project: Java, Networking",
             "url": "https://github.com/alec-b-williams/447_antigrav"
+        },
+        {
+            "cover": "/portfolio/Project_1/order_frontend.png",
+            "title": "Orthotic Ordering System",
+            "description": "",
+            "url": "https://github.com/alec-b-williams/420_Capstone"
         }
     ]
 }
